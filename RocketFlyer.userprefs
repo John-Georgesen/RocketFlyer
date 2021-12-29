@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\2dPlatformer\Assets\scripts\playerMovement.js">
+    <Files>
+      <File FileName="..\2dPlatformer\Assets\scripts\moveStar.js" Line="18" Column="1" />
+      <File FileName="..\2dPlatformer\Assets\scripts\starScripts\spawnStar.js" Line="10" Column="51" />
+      <File FileName="..\2dPlatformer\Assets\scripts\catScript.js" Line="5" Column="35" />
+      <File FileName="Assets\Scripts\OTD.js" Line="13" Column="3" />
+      <File FileName="..\2dPlatformer\Assets\scripts\playerMovement.js" Line="14" Column="50" />
+      <File FileName="..\2dPlatformer\Assets\scripts\cameraScript.js" Line="16" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Ann G -Laptop\Unity\Workspace\2dPlatformer\Assets\scripts\playerMovement.js" line="11" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
